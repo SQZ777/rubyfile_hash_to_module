@@ -17,7 +17,7 @@ PAGE_OBJECT = {
 ### Generate to
 
 filename: page_object.rb
-file content is
+file content will be
 
 ```ruby
 module page_object
